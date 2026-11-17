@@ -5,6 +5,7 @@
 [![Sensors: RFID & LoadCell](https://img.shields.io/badge/Sensors-RC522_%7C_HX711-2563EB)](https://github.com/buildprojecthq/Shreyas_Major-Project)
 [![Database: Supabase](https://img.shields.io/badge/Database-Supabase-3ECF8E?logo=supabase)](https://supabase.com/)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-majorprojectsmartration.netlify.app-00C7B7?logo=netlify&logoColor=white)](https://majorprojectsmartration.netlify.app/)
+[![Project Showcase](https://img.shields.io/badge/Showcase-buildproject.in-2563EB)](https://buildproject.in/projects/smart-ration-dispenser/)
 
 **Digitalize Ration** is an automated, tamper-proof grain distribution platform developed to eliminate leakage, ghost cards, and weighing manipulation in the Public Distribution System (PDS). Integrating Aadhaar-linked RFID cards, client-side neural face verification, closed-loop strain gauge load cell cutoffs, and a cloud-synchronized ledger, it transforms manual ration depots into autonomous, fair-price distribution kiosks.
 
@@ -130,6 +131,11 @@ This project was developed at **Don Bosco Institute of Technology (DBIT), Bengal
 - **Shreyas S Kotyal** (1DB23EC148) — Dept. of ECE
 - **Sonic M R** (1DB23EC154) — Dept. of ECE
 - **Under the Guidance of:** Prof. Sharmila C, Assistant Professor & Research Coordinator, Dept. of ECE, DBIT.
+
+---
+
+> 💡 **Project Showcase & Prototype Documentation:**  
+> Complete load cell calibration specs, RFID verification workflow, anti-fraud system architecture, and examiner viva defense notes are available on **[buildproject.in/projects/smart-ration-dispenser](https://buildproject.in/projects/smart-ration-dispenser/)**.
 
 ---
 
