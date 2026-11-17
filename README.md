@@ -5,7 +5,7 @@
 [![Sensors: RFID & LoadCell](https://img.shields.io/badge/Sensors-RC522_%7C_HX711-2563EB)](https://github.com/buildprojecthq/Shreyas_Major-Project)
 [![Database: Supabase](https://img.shields.io/badge/Database-Supabase-3ECF8E?logo=supabase)](https://supabase.com/)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-majorprojectsmartration.netlify.app-00C7B7?logo=netlify&logoColor=white)](https://majorprojectsmartration.netlify.app/)
-[![Project Showcase](https://img.shields.io/badge/Showcase-buildproject.in-2563EB)](https://buildproject.in/projects/smart-ration-dispenser/)
+[![Project Showcase](https://img.shields.io/badge/Built%20by-buildproject.in-2563EB)](https://buildproject.in/projects/smart-ration-dispenser/)
 
 **Digitalize Ration** is an automated, tamper-proof grain distribution platform developed to eliminate leakage, ghost cards, and weighing manipulation in the Public Distribution System (PDS). Integrating Aadhaar-linked RFID cards, client-side neural face verification, closed-loop strain gauge load cell cutoffs, and a cloud-synchronized ledger, it transforms manual ration depots into autonomous, fair-price distribution kiosks.
 
@@ -134,8 +134,12 @@ This project was developed at **Don Bosco Institute of Technology (DBIT), Bengal
 
 ---
 
-> 💡 **Project Showcase & Prototype Documentation:**  
-> Complete load cell calibration specs, RFID verification workflow, anti-fraud system architecture, and examiner viva defense notes are available on **[buildproject.in/projects/smart-ration-dispenser](https://buildproject.in/projects/smart-ration-dispenser/)**.
+### 🚀 Built by [buildproject.in](https://buildproject.in/)
+
+This project was designed, built, and bench-tested by **[buildproject.in](https://buildproject.in/)**. Explore the live kiosk showcase, load cell calibration specs, and viva notes on the **[official project page](https://buildproject.in/projects/smart-ration-dispenser/)**.
+
+**P.S.** Looking for a custom engineering capstone, IoT biometric kiosk, or smart governance prototype?  
+👉 **[Get your project done at buildproject.in](https://buildproject.in/)** — custom schematics, tested code, and complete academic/industry documentation.
 
 ---
 
